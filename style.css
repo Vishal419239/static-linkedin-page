@@ -1,0 +1,649 @@
+ 
+ nav{
+    width: 100%;
+    height: 2rem;
+    display: flex;
+    font-size: 13px;
+    flex-direction: row;
+    padding: 1rem;
+    margin: 1rem;
+    gap: 3rem;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(252, 252, 246);
+}
+
+.homeicon{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;      
+}
+
+.homeicon img{
+    width: 20px;
+    height: 20px;
+    margin: 1rem auto 0 auto;
+}
+
+/* section start  */
+
+.searchiconnav{
+    height: 12px;
+    width: 12px;
+    position: absolute;
+}
+.premiumnav{
+    height: 14px;
+    width: 14px;
+}
+
+/* .networknavbar{
+    margin-left: 2rem;
+    margin-top: -1rem;
+    position: relative;
+} */
+.img{
+    width: 5rem;
+    height: 5rem;
+    position: relative;
+    border-radius: 50%;
+    display: flex;
+    margin-top: -2.3rem;
+    margin-left: 3.4rem;
+    justify-content: center;
+    align-items: center;
+}
+.searop{
+    height: 2.3rem;
+    width: 15rem;
+    border-radius: 5rem;
+}
+.businessbtni{
+    width: 12px;
+    height: 12px;
+}
+.searchiconnav{
+    height: 12px;
+    width: 12px;
+    margin-left:-14.5rem;
+    margin-top: 12px;
+}
+.mainsd{
+    margin:0 10rem;
+    display: flex;  
+    justify-content: space-around; 
+    gap: 2rem;
+}
+.hr1{
+    color: black;
+    background-color: #2a2727;
+}
+.name{
+    font-size: 14px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxcol{
+    background-color: #a0b4b7;
+    height: 3.8rem;
+}
+.skills{
+    font-size: 10px;
+    margin-left: 2rem;
+}
+.section1{
+    height: 21.4rem;
+    width: 15rem;
+    background-color: white;
+    border: 0.5px solid rgba(241, 216, 216, 0.991);
+    border-radius: 3px;
+    gap: 2rem;  
+}
+.box2{
+    border: 0.5px solid rgba(241, 216, 216, 0.991);
+    border-radius: 3px;
+    background-color: white;
+}
+.conn{
+    font-size: 14px;
+   margin-left: 5px;
+}
+.conalu{
+    font-size: 15.4px;
+    margin-top: -21px;
+    margin-left: 5px;
+}
+.prmiumlogo{
+    width: 14px;
+    height: 14px;
+    margin-left: 7px;
+   margin-top: -0.8rem;
+   position: absolute;
+}
+.parapremium{
+    font-size: 13px;
+    margin-left: 5px;
+
+}
+.onemonth{
+    margin-left: 29px;
+    font-weight:500;
+    margin-top: -0.8rem;
+    font-size: 15.4px;
+
+}
+.save{
+    font-size: 1rem;
+    margin-top: -1.2rem;
+    margin-left: 1.7rem;
+}
+.savepic{
+    width: 14px;
+    height: 14px;
+    margin-top: -55rem;
+    margin-left: 5px;
+}
+.recent{
+    font-size: 1rem;
+}
+ 
+/* section mid  */
+
+.secmid{
+    height: 7rem;
+    width: 40rem;
+    background-color: #f1fbf6;
+}
+.Myphoto{
+    height: 35px;
+    width: 35px;
+   border-radius: 50%;
+   margin-left: 12px;
+   margin-top: 1rem;
+}
+.inputser{
+    width: 27rem;
+    padding: 2px;
+    height: 28px;
+    border-radius: 20px;
+    margin-top: -20rem;
+    margin-left: 0.8rem;
+}
+.mediag{
+    height: 15px;
+    width: 15px;
+    margin-left: 4rem;
+    margin-top: 1rem;
+}
+.mediname{
+    font-size: 14px;
+    margin-left: 5.4rem;
+    margin-top: -1.3rem;
+}
+.eventicon{
+    height: 15px;
+    width: 15px;
+    margin-top: -1.8rem;
+    margin-left: 14rem;
+    position: absolute;
+  
+}
+.event{
+    font-size: 14px;
+    margin-left: 15.6rem;
+    margin-top: -1.8rem;
+    position: absolute;
+}
+.writeicon{
+    height: 20px;
+    width: 20px;
+    margin-left: 23rem;
+    margin-top: -1.8rem;
+    position: absolute;
+}
+.writing{
+    font-size: 14px;
+    margin-left: 24.5rem;
+    margin-top: -1.8rem;
+    position: absolute;
+
+}
+.post{
+    margin-top: 2rem;
+    height: 35rem;
+    border: 2px solid rgb(252, 201, 201);
+    border-radius: 5px;
+}
+.postdp{
+    height: 25px;
+    width: 25px;
+    margin-top: 0.5rem;
+    margin-left: 12px;
+    border-radius: 50%;
+}
+.pruname{
+    font-size: 0.6rem;
+    margin-left: 3rem;
+    margin-top: -1.8rem;
+}
+.onedigit{
+    font-size: 0.6rem;
+    margin-left: 8.4rem;
+    margin-top: -1.2rem;
+}
+.dayp{
+    font-size: 0.7rem;
+    margin-left: 3rem;
+    margin-top: -0.7rem;
+}
+.world{
+    width: 10px;
+    height: 10px;
+    margin-left: 0rem;
+    margin-bottom: 0rem;
+}
+.hiring{
+    font-size: 13px;
+    margin-left: 3rem;
+    margin-top: 0.8rem;  
+}
+.hiringimg{
+    height: 22rem;
+    width: 32rem;
+    margin-left: 0.2rem;
+    position: absolute;
+    border: 2px solid rgb(244, 238, 238);
+    position: relative;
+}
+
+.likepara{
+    margin-top: 2rem;
+    margin-left: 12px;
+}
+.likebtn{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.5rem;
+    margin-left: 2.9rem;
+    position: absolute;
+}
+.commentbtn{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.5rem;
+    margin-left: 8rem;
+    position: absolute;
+}
+.commentpara{
+    margin-top: -2.5rem;
+    margin-left: 10rem; 
+}
+.repost{
+    margin-top: -2.1rem;
+    margin-left:20rem; 
+    position: relative;
+}
+.repostbtn{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.3rem;
+    margin-left: 18rem;
+    position: absolute;
+}
+.send{
+    margin-top: -2.1rem;
+    margin-left:28rem; 
+    position: relative;
+}
+.sendicon{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.3rem;
+    margin-left: 26rem;
+    position: absolute;
+}
+.videopost{
+    margin-top: 3rem;
+    height: 35rem;
+    border: 2px solid rgb(252, 201, 201);
+    border-radius: 5px;
+}
+.hiringvid{
+    height: 22rem;
+    width: 32rem;
+    margin-left: 0.2rem;
+    position: absolute;
+    border: 2px solid rgb(244, 238, 238);
+    position: relative;
+}
+.likepara2{
+    margin-top: 2rem;
+    margin-left: 12px;
+}
+.likebtn2{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.5rem;
+    margin-left: 2.9rem;
+    position: absolute;
+}
+.commentbtn2{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.5rem;
+    margin-left: 8rem;
+    position: absolute;
+}
+.commentpara2{
+    margin-top: -2.5rem;
+    margin-left: 10rem; 
+}
+.repost2{
+    margin-top: -2.1rem;
+    margin-left:20rem; 
+    position: relative;
+}
+.repostbtn2{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.3rem;
+    margin-left: 18rem;
+    position: absolute;
+}
+.send2{
+    margin-top: -2.1rem;
+    margin-left:28rem; 
+    position: relative;
+}
+.sendicon2{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.3rem;
+    margin-left: 26rem;
+    position: absolute;
+}
+
+.videopost3{
+    margin-top: 3rem;
+    height: 35rem;
+    border: 2px solid rgb(250, 244, 244);
+    border-radius: 5px;
+}
+.emotionalvid{
+    margin-top: 1.8rem;
+    height: 22rem;
+    width: 32rem;
+    margin-left: -2.9rem;
+    position: absolute;
+    border: 2px solid rgb(255, 250, 250);
+    position: relative;
+}
+.likepara3{
+    margin-top: 2rem;
+    margin-left: 12px;
+}
+.likebtn3{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.5rem;
+    margin-left: 2.9rem;
+    position: absolute;
+}
+.commentbtn3{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.5rem;
+    margin-left: 8rem;
+    position: absolute;
+}
+.commentpara3{
+    margin-top: -2.5rem;
+    margin-left: 10rem; 
+}
+.repost3{
+    margin-top: -2.1rem;
+    margin-left:20rem; 
+    position: relative;
+}
+.repostbtn3{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.3rem;
+    margin-left: 18rem;
+    position: absolute;
+}
+.send3{
+    margin-top: -2.1rem;
+    margin-left:28rem; 
+    position: relative;
+}
+.sendicon3{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.3rem;
+    margin-left: 26rem;
+    position: absolute;
+}
+
+.videopost4{
+    margin-top: 3rem;
+    height: 35rem;
+    border: 2px solid rgb(250, 244, 244);
+    border-radius: 5px;
+}
+.emotionalvid{
+    margin-top: 0.7rem;
+    height: 22rem;
+    width: 32rem;
+    margin-left: -2.9rem;
+    position: absolute;
+    border: 2px solid rgb(255, 250, 250);
+    position: relative;
+}
+.likepara4{
+    margin-top: 2rem;
+    margin-left: 12px;
+}
+.likebtn4{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.5rem;
+    margin-left: 2.9rem;
+    position: absolute;
+}
+.commentbtn4{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.5rem;
+    margin-left: 8rem;
+    position: absolute;
+}
+.commentpara4{
+    margin-top: -2.5rem;
+    margin-left: 10rem; 
+}
+.repost4{
+    margin-top: -2.1rem;
+    margin-left:20rem; 
+    position: relative;
+}
+.repostbtn4{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.3rem;
+    margin-left: 18rem;
+    position: absolute;
+}
+.send4{
+    margin-top: -2.1rem;
+    margin-left:28rem; 
+    position: relative;
+}
+.sendicon4{
+    height: 22px;
+    width: 22px;
+    margin-top: -2.3rem;
+    margin-left: 26rem;
+    position: absolute;
+}
+
+
+/* section last  */
+
+.seclast{
+    height: 33rem;
+    width: 20rem;
+    border: 0.5px solid rgba(241, 216, 216, 0.991);
+    border-radius: 3px;
+    background-color: white;
+}
+.iicon{
+    height: 12px;
+    width: 12px;
+    margin-left: 15rem;
+    
+}
+.lindname{
+    font-size: 1.4rem;
+    margin-top: 10px;
+    margin-left: 11px;
+}
+.lindnamep1{
+    font-size: 1rem;
+    margin-top: -0.8rem;
+    margin-left: 11px;
+}
+.lindnamebs{
+    font-size: 0.9rem;
+    margin-top: -1rem;
+    margin-left: 11px;
+}
+.lindnamep97{
+    font-size: 14px;
+    margin-top: -1rem;
+    margin-left: 11px;
+}
+.lindnameapple{
+    font-size: 0.9rem;
+    margin-top: -1.9px;
+    margin-left: 11px;
+}
+.lindnamep98{
+    font-size: 14px;
+    margin-top: -1rem;
+    margin-left: 11px;
+}
+.lindnameai{
+    font-size: 0.9rem;
+    margin-top: -1.9px;
+    margin-left: 11px;
+}
+.lindnamep297{
+    font-size: 14px;
+    margin-top: -1rem;
+    margin-left: 11px;
+}
+.lindnamelife{
+    font-size: 0.9rem;
+    margin-top: -1.9px;
+    margin-left: 11px;
+}
+.lindnamep235{
+    font-size: 14px;
+    margin-top: -1rem;
+    margin-left: 11px;
+}
+.lindnamewo{
+    font-size: 0.9rem;
+    margin-top: -1.9px;
+    margin-left: 11px;
+}
+.lindnamep401{
+    font-size: 14px;
+    margin-top: -1rem;
+    margin-left: 11px;
+}
+.show{
+    margin-left: 11px;
+    margin-top: -1.2rem;
+    margin-left: 11px; 
+}
+.downicon{
+    height: 12px;
+    width: 12px;
+    margin-top: -3rem;
+    margin-left: 6rem;
+}
+.games{
+    margin-left: 10px;
+}
+.quiz{
+    margin-left: 2.3rem;
+    margin-top: -5.2rem;
+}
+.crown{
+    margin-left:  2.3rem;
+    font-size: 0.8rem;
+    margin-top: -1.2rem;
+}
+.quizlogo{
+    height: 25px;
+    width: 25px;
+    margin-bottom: 3rem;
+    margin-left: 7px;
+}
+.pin{
+    margin-left: 2.6rem;
+    margin-top: -5.4rem;
+}
+.guess{
+    margin-left:  2.6rem;
+    font-size: 0.8rem;
+    margin-top: -1.4rem;
+}
+.pinpoint{
+    height: 30px;
+    width: 30px;
+    margin-bottom: 3rem;
+    margin-left: 7.4px;
+}
+.cross{
+    margin-left: 2.6rem;
+    margin-top: -5.4rem;
+}
+.trivi{
+    margin-left:  2.6rem;
+    font-size: 0.8rem;
+    margin-top: -1.4rem;
+}
+.crossclimb{
+    height: 30px;
+    width: 30px;
+    margin-bottom: 3rem;
+    margin-left: 7.4px;
+}
+.lastmenu{
+    border: 1px solid rgb(248, 229, 229);
+    border-radius: 5px;
+}
+.Newlogo{
+    width: 35px;
+    height: 35px;
+    margin-left:  0.4rem;
+}
+.linapp{
+    font-size: 16px;
+    margin-top: -2rem;
+    margin-left: 3rem;
+}
+.aboutlast{
+    margin-top: 1rem;
+    margin-left: -4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8rem;
+}
